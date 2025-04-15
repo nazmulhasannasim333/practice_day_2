@@ -2,7 +2,7 @@
 
 int main()
 {
-    long long int a, b, c, d;
+    int a, b, c, d;
     scanf("%d %d %d %d", &a, &b, &c, &d);
     if (a + b - c == d)
     {
